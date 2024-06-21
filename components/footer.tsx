@@ -12,10 +12,7 @@ const Footer = () => {
         alt="hello"
       /> */}
       <span className="flex justify-center items-center font-bold mt-3 mb-3">
-        Kamakshi Tarot Academy
-      </span>
-      <span className="flex justify-center items-center font-bold">
-        Kamakshi Tarot Academy
+        Raman Arora
       </span>
     </div>
   );

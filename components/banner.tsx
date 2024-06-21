@@ -5,16 +5,16 @@ import { Button } from "./ui/button";
 const Banner = () => {
   return (
     <>
-      <div className="w-full rounded-lg overflow-hidden flex">
-        <section className="w-full flex-center flex-col mt-6 mb-[30px]">
+      <div className="w-full rounded-lg overflow-hidden flex mt-14 mb-6">
+        <section className="w-full flex-center flex-col mt-6 mb-[30px] bg-no-repeat bg-contain bg-[url('https://cdn.pixabay.com/photo/2019/10/26/10/39/tarot-4579147_640.jpg')]">
           <h1 className="head_text text-center  pt-[200px] dark:text-white text-black">
-            <span className="dark:text-white text-center text-black text-[100px]">
+            <span className="dark:text-white text-center text-black lg:text-[100px]  md:text-4xl sm:text-2xl ">
               Tarot
             </span>
             <br className="max-md:hidden" />
-            <span className="usespan ml-2 text-7xl text-center">
+            <h1 className="w-full p-3 text-center head_text usespan mb-10">
               Card Reading Free Workshop
-            </span>
+            </h1>
           </h1>
           {/* 
           <p className="desc text-center text-gray-600 mt-5 px-3">

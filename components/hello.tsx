@@ -8,15 +8,13 @@ const Hello = () => {
       <div className="flex-col flex">
         <video
           autoPlay
+          controls
           muted
           loop
-          className="h-full w-full left-0 z-[1] object-cover rounded-full"
+          className="w-[300px] h-[600px] md:w-[400px] md:h-[600px] left-0 z-[1] object-cover"
         >
-          <source src="/12.mp4" type="video/mp4" />
+          <source src="/121.mp4" type="video/mp4" />
         </video>
-      </div>
-      <div>
-        <CardWithForm />
       </div>
     </div>
   );

@@ -10,7 +10,7 @@ const Video = () => {
           alt="hello"
           width={490}
           height={463}
-          className="object-cover w-[300px] h-[300px] md:w-[400px] md:h-[400px]  rounded-full"
+          className="object-cover   rounded-full"
         />
       </div>
       <div>

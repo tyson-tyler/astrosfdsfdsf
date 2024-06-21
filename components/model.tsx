@@ -15,7 +15,7 @@ export function DialogDemo() {
   return (
     <Dialog>
       <DialogTrigger asChild>
-        <Button className="text-xl py-8 animate-bounce">
+        <Button className=" py-8 animate-bounce">
           Book your free Seat Now
         </Button>
       </DialogTrigger>
@@ -58,6 +58,9 @@ export function DialogDemo() {
           <Button>Reserver Seat Now</Button>
         </DialogFooter> */}
         <Page />
+        <div className="flex justify-center items-center text-center font-bold">
+          Thank. for joining workshop We will be in touch
+        </div>
       </DialogContent>
     </Dialog>
   );
