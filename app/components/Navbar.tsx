@@ -1,6 +1,6 @@
 import React from "react";
 
-import { DialogDemo } from "@/components/model";
+import { DialogDemo } from "@/components/hleloo";
 
 const Navbar = () => {
   return (

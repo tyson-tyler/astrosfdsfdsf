@@ -6,7 +6,7 @@ const Banner = () => {
   return (
     <>
       <div className="w-full rounded-lg overflow-hidden flex flex-col mt-14 mb-6">
-        <section className="w-full flex-center rotate-[185deg] flex-col mt-6 mb-[30px] h-[500px] bg-no-repeat bg-contain bg-[url('https://cdn.pixabay.com/photo/2019/10/26/10/39/tarot-4579147_640.jpg')]">
+        <section className="w-full flex-center  flex-col mt-6 mb-[30px] h-[500px] bg-no-repeat bg-contain bg-[url('https://cdn.pixabay.com/photo/2019/10/26/10/39/tarot-4579147_640.jpg')]">
           {/* 
           <p className="desc text-center text-gray-600 mt-5 px-3">
             Join us in this thorough 2-days free online workshop to dive deep
