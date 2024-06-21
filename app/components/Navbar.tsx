@@ -7,7 +7,7 @@ const Navbar = () => {
     <div className="w-full fixed top-0 z-[50] h-34 flex  items-center justify-between px-2 dark:bg-gray-900 dark:text-white shadow-md text-black">
       <div>
         <h1 className="text-bold m-4 text-[10px] font-bold sm:text-sm md:text-sm lg:text-lg">
-          Kamakshi Tarot Academy
+          Tarot with Raman
         </h1>
       </div>
       {/* <div>

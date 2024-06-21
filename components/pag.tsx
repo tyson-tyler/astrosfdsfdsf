@@ -1,75 +1,72 @@
 import React from "react";
+import { Button } from "./ui/button";
 
 const Pag = () => {
   return (
     <>
       <h1 className="w-full p-3 text-center head_text usespan mb-10">
-        Our Feature
+        Our Service
       </h1>
       <div className="flex items-center justify-center">
         <div className="container mx-auto px-4">
           <div className="flex justify-center items-center flex-wrap gap-5 mb-8">
             <div className="card bg-white dark:bg-gray-800 text-black dark:text-white p-6 rounded-lg shadow-lg transform transition duration-500 hover:scale-105">
-              <div className="text-4xl mb-4">🔥</div>
+              <div className="text-4xl mb-4">🃏</div>
               <h3 className="text-xl font-semibold mb-2 dark:text-white">
-                Feature 1
+                Torat Card Reading
               </h3>
               <p className="text-gray-600 dark:text-white">
-                This is a description of the first feature. It explains what
-                makes this feature awesome and how it benefits the user.
+                In Torat Card Reading Our awesome Teacher teach you How Read the
+                Torat Card.
               </p>
             </div>
             <div className="card bg-white dark:bg-gray-800 text-black dark:text-white p-6 rounded-lg shadow-lg transform transition duration-500 hover:scale-105">
-              <div className="text-4xl mb-4">⚡</div>
+              <div className="text-4xl mb-4">👩‍❤️‍💋‍👨</div>
               <h3 className="text-xl font-semibold mb-2 dark:text-white">
-                Feature 2
+                Relationship Counseling
               </h3>
               <p className="text-gray-600 dark:text-white">
-                This is a description of the second feature. It explains what
-                makes this feature awesome and how it benefits the user.
+                we Provide you the best advise for your Relation Ship Happy and
+                Healty
               </p>
             </div>
             <div className="card bg-white dark:bg-gray-800 text-black dark:text-white p-6 rounded-lg shadow-lg transform transition duration-500 hover:scale-105">
-              <div className="text-4xl mb-4">💎</div>
+              <div className="text-4xl mb-4">👼</div>
               <h3 className="text-xl font-semibold mb-2 dark:text-white">
-                Feature 3
+                Spiritual Guidance
               </h3>
               <p className="text-gray-600 dark:text-white">
-                This is a description of the third feature. It explains what
-                makes this feature awesome and how it benefits the user.
+                We Provide you a track how you close to the good and make
+                everything Good
               </p>
             </div>
           </div>
           <div className="flex justify-center items-center flex-wrap gap-5">
             <div className="card bg-white dark:bg-gray-800 text-black dark:text-white p-6 rounded-lg shadow-lg transform transition duration-500 hover:scale-105">
-              <div className="text-4xl mb-4">🔥</div>
+              <div className="text-4xl mb-4">💸</div>
               <h3 className="text-xl font-semibold mb-2 dark:text-white">
-                Feature 1
+                Finanicial and Wealth Insight
               </h3>
               <p className="text-gray-600 dark:text-white">
-                This is a description of the first feature. It explains what
-                makes this feature awesome and how it benefits the user.
+                We Like to Provide to about how you earn the Finanicial Wealths
+                and Insight
               </p>
             </div>
             <div className="card bg-white dark:bg-gray-800 text-black dark:text-white p-6 rounded-lg shadow-lg transform transition duration-500 hover:scale-105">
-              <div className="text-4xl mb-4">⚡</div>
+              <div className="text-4xl mb-4">👩‍❤️‍👨</div>
               <h3 className="text-xl font-semibold mb-2 dark:text-white">
-                Feature 2
+                Reading for Couples
               </h3>
               <p className="text-gray-600 dark:text-white">
-                This is a description of the second feature. It explains what
-                makes this feature awesome and how it benefits the user.
+                This is for about how your partner think about you and yourself
               </p>
             </div>
             <div className="card bg-white dark:bg-gray-800 text-black dark:text-white p-6 rounded-lg shadow-lg transform transition duration-500 hover:scale-105">
-              <div className="text-4xl mb-4">💎</div>
+              <div className="text-4xl mb-4">📲</div>
               <h3 className="text-xl font-semibold mb-2 dark:text-white">
-                Feature 3
+                Call Us
               </h3>
-              <p className="text-gray-600 dark:text-white">
-                This is a description of the third feature. It explains what
-                makes this feature awesome and how it benefits the user.
-              </p>
+              <Button>7065215277</Button>
             </div>
           </div>
         </div>

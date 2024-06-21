@@ -20,24 +20,24 @@ const page = () => {
     <div>
       <Banner />
       {/* <Video />
-      <Seven />
+
 
      
      */}
-
-      {/* <Fun />
+      {/* 
       // 
       
       <Videos />
       // 
       */}
-      {/* <Pag /> */}
+      {/*  */}
       <Hello />
-      <Fun />
+      <Seven />
+      <Pag />
 
+      <Fun />
       <About />
       <Bul />
-
       <Footer />
     </div>
   );
