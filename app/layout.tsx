@@ -9,7 +9,7 @@ import { ClerkProvider } from "@clerk/nextjs";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Welcome to the Astology",
+  title: "Tarot Reading with Raman",
   description: "Welcome to the Astology",
 };
 
@@ -23,7 +23,7 @@ export default function RootLayout({
       <html lang="en">
         <ThemeProvider
           attribute="class"
-          defaultTheme="system"
+          defaultTheme="dark"
           enableSystem
           disableTransitionOnChange
         >

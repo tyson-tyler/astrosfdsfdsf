@@ -59,7 +59,7 @@ export function DialogDemo() {
         </DialogFooter> */}
         <Page />
         <div className="flex justify-center items-center text-center font-bold">
-          Thank. for joining workshop We will be in touch
+          Thanks for joining free workshop We will be in touch !
         </div>
       </DialogContent>
     </Dialog>

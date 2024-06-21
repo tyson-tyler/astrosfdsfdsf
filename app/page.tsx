@@ -14,6 +14,7 @@ import Videos from "@/components/videos";
 
 import React from "react";
 import Footer from "@/components/footer";
+import Com from "./components/com";
 
 const page = () => {
   return (
@@ -38,6 +39,7 @@ const page = () => {
       <Fun />
       <About />
       <Bul />
+      <Com />
       <Footer />
     </div>
   );
